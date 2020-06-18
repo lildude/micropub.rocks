@@ -1,7 +1,7 @@
 # micropub.rocks
 Micropub test suite and debugging utility
 
-## Installation
+## Installation for Local Testing
 
 **⚠️ This works in my env on macOS. Your experience may vary. Don't come 😭 to me if something breaks ⚠️**
 
